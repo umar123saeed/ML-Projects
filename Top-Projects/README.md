@@ -51,4 +51,4 @@ This repository contains my projects based on real-world datasets and predictive
 ---
 
 ## 📬 Contact
-- LinkedIn: (add your link here)
+- LinkedIn: (www.linkedin.com/in/umar-saeed-661927340)
